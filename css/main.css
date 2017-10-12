@@ -3,17 +3,22 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-body {
-    position: relative;
+html, body {
+    height: 100%;
 }
 
+#navbar li a {
+    text-transform: uppercase;
+}
 
+.jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
-
-
-
-
+.container {
+    height: 100%;
+}
 
 
 
